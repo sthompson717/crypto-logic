@@ -25,13 +25,13 @@ The game tracks the time, in seconds, as well as the number of incorrect guesses
 ## Windows ##
 1. Hold down the windows key and the 'r' key
 2. > cmd
-3. Type the filepath to the repository
+3. Navigate to the directory containing the repository
 4. > python Crypto-Logic.py
 
 ## Mac ##
 1. Hold down the cmd key and the space bar
 2. > terminal
-3. Type the filepath to the repository
+3. Navigate to the directory containing the repository
 4. > python Crypto-Logic.py
 
 **The text files "wordlist.text" and "guessedwords.txt" must be stored in the same folder as the Crypto-Logic.py file in order for the program to work successfully.**
