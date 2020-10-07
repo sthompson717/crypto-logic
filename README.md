@@ -18,6 +18,8 @@ Once a word is chosen at random, it is removed from "wordlist.txt" and added to 
 
 The game tracks the time, in seconds, as well as the number of incorrect guesses until the user correctly solves the word which will be shown once the user has correctly solved the word.
 
+![demo](images/crypto-logic.gif)
+
 # Installation #
 ## Windows ##
 1. Make sure you have installed the latest version of Python
