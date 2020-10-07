@@ -1,5 +1,7 @@
 # Crypto-Logic #
 
+![crypto-logic logo](images/crypto-logic-logo.png)
+
 Crypto-Logic is a simple word jumble game in Python. A word is chosen at random from a text file and the letters are scrambled. The objective is to correctly solve the word in the fastest time and with the smallest number of incorrect guesses.
 
 # Description #
@@ -18,7 +20,7 @@ Once a word is chosen at random, it is removed from "wordlist.txt" and added to 
 
 The game tracks the time, in seconds, as well as the number of incorrect guesses until the user correctly solves the word which will be shown once the user has correctly solved the word.
 
-![demo](images/crypto-logic.gif)
+![crypto-logic demo](images/crypto-logic.gif)
 
 # Installation #
 ## Windows ##
